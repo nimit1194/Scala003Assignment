@@ -1,0 +1,12 @@
+Protocol -> https
+Host -> com
+Domain -> 
+
+Protocol -> https
+Host -> sourceallies
+Domain -> com
+
+Protocol -> https
+Host -> com
+Domain -> 
+

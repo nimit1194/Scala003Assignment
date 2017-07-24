@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/5971964/file-separator-or-file-pathseparator
+https://blogs.sourceallies.com/2009/12/word-counts-example-in-ruby-and-scala/
+https://alvinalexander.com/scala/how-to-process-every-character-in-text-file-scala
